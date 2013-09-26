@@ -1,0 +1,2 @@
+obj\Debug\BugActivity.g.xaml
+obj\Debug\WFActivityLibrary1_BugActivity_BeforeInitializeComponentHelper.txt

@@ -1,0 +1,3 @@
+obj\Debug\_WFActivityLibrary1.g.cs
+obj\Debug\BugActivity.g.cs
+obj\Debug\WFActivityLibrary1_BugActivity_BeforeInitializeComponentHelper.cs

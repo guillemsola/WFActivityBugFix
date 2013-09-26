@@ -1,0 +1,8 @@
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\bin\Debug\WFConsoleApplication.exe.config
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\bin\Debug\WFConsoleApplication.exe
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\bin\Debug\WFConsoleApplication.pdb
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\bin\Debug\WFActivityLibrary1.dll
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\bin\Debug\WFActivityLibrary1.pdb
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\obj\x86\Debug\WFConsoleApplication.exe
+C:\Users\guillem\documents\visual studio 2010\Projects\WFActivityLibrary1\WFConsoleApplication\obj\x86\Debug\WFConsoleApplication.pdb
